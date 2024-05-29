@@ -1,0 +1,11 @@
+pypdf
+openai
+langchain
+langchain-community
+python-dotenv
+langchain_openai 
+langchain_core
+streamlit
+groq
+langchain-groq
+PyPDF2
