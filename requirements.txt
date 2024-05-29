@@ -7,5 +7,5 @@ langchain_openai
 langchain_core
 streamlit
 groq
-langchain-groq
 PyPDF2
+langchain-groq
